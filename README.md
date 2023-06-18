@@ -1,6 +1,6 @@
 - Do you enjoy feeling outraged by vulgar code?
 
-- Do otentatious solutions reinforce your confidence as a developer?
+- Do ostentatious solutions reinforce your confidence as a developer?
 
 - Do monstrosities pushed to prod abate your imposter syndrome?
 
