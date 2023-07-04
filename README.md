@@ -1,8 +1,3 @@
+Hey there! Welcome, you're right on time.
 
-- Do you enjoy feeling outraged by vulgar code?
-
-- Do ostentatious solutions reinforce your confidence as a developer?
-
-- Do monstrosities pushed to prod abate your imposter syndrome?
-
-Then baby, ✨this is the place for you!✨
+This is a personal account consisting of experiments, production-hazardous code, and any tidbits I find interesting along the way across a wide range of topics and technologies
