@@ -1,8 +1,10 @@
 ## ⚠️ **Cognitohazard Ahead**  
 This is a ~~vanity~~ personal account consisting of experiments, production-hazardous code, and irrelevant but interesting tidbits. 
 
-Collaboration is welcome! However, please exercise [Keter](https://scp-wiki.wikidot.com/object-classes#toc3)-class safety precautions when handling any anomalous materials herein[^1]
+Collaboration is welcome!
+However, please exercise [Keter](https://scp-wiki.wikidot.com/object-classes#toc3)-class safety precautions when handling any anomalous materials herein[^1]
 
+## After-thoughts
 
 > **skul·dug·ger·y**  
 > `/ˌskəlˈdəɡ(ə)rē/`  
@@ -15,6 +17,7 @@ Collaboration is welcome! However, please exercise [Keter](https://scp-wiki.wiki
 > <sup>_noun_</sup>  
 >
 > skulduggery, but fluffy.
+
 
 [^1]: Use code from these repos at your own risk
 
