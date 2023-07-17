@@ -1,8 +1,11 @@
-## ⚠️ **Cognitohazard Ahead**  
-This is a ~~vanity~~ personal account consisting of experiments, production-hazardous code, and irrelevant but interesting tidbits. 
-
-Collaboration is welcome!
-However, please exercise [Keter](https://scp-wiki.wikidot.com/object-classes#toc3)-class safety precautions when handling any anomalous materials herein[^1]
+> __Warning__
+> 
+> **Cognitohazard Ahead**
+> 
+> This is a ~~vanity~~ personal account consisting of experiments, production-hazardous code, and irrelevant but interesting tidbits. 
+> 
+> Collaboration is welcome!
+> However, please exercise [Keter](https://scp-wiki.wikidot.com/object-classes#toc3)-class safety precautions when handling any anomalous materials herein[^1]
 
 ## After-thoughts
 
